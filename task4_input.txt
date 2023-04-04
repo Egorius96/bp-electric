@@ -1,0 +1,13 @@
+{"organisation": "Python Software Foundation",
+ "officers": [
+            {"first_name": "Guido", "last_name":"Rossum", "position":"president"},
+            {"first_name": "Diana", "last_name":"Clarke", "position":"chair"},
+            {"first_name": "Naomi", "last_name":"Ceder", "position":"vice chair"},
+            {"first_name": "Van", "last_name":"Lindberg", "position":"vice chair"},
+            {"first_name": "Ewa", "last_name":"Jodlowska", "position":"director of operations"}
+            ],
+"updated": "123",
+"country": "USA",
+"founded": 2001,
+"members": 244,
+"budget": 750000}
